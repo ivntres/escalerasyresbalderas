@@ -20,11 +20,13 @@ Tiempo sugerido
 
 ## Recursos
 Escaleras y Resbaladeras en Scratch: https://scratch.mit.edu/projects/318775244/
-Puntos para la reflexión
+
+## Puntos para la reflexión
 ¿Cómo funciona un dado de juego?
 ¿Cómo es el movimiento de fichas dentro de un tablero de juego de izquierda a derecha?
 ¿Qué acciones se puede abstraer y simplificar en funciones?
-Escaleras y Resbaladeras
+
+## Escaleras y Resbaladeras
 Ingresar al recurso dentro de Scratch y hacer clic en reinventar.
 Borrar todo el código sin borrar los personajes.
 
