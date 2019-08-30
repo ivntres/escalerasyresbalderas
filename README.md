@@ -1,4 +1,4 @@
-# Escaleras y Resbalderas
+# Escaleras y Resbaladeras
 Juego versión Escaleras y Serpientes relacionado a Seguridad en Internet, es un videojuego en Scratch desarrollado con finalidades educativas.
 
 ## Objetivos
